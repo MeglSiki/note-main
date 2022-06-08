@@ -1,0 +1,5 @@
+name: main-note
+title: Main
+version: latest
+nav:
+  - modules/ROOT/nav.adoc
