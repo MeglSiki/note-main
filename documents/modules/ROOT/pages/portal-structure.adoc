@@ -1,0 +1,15 @@
+= サイトの構成方法について
+
+:navtitle: サイト構成
+
+== ホスティング
+
+* Netlify
+
+== Documentサイト
+
+* Antora
+
+== Build から Deploy まで
+
+image::meglsiki-portal-construction.svg[]
