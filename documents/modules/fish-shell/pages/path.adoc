@@ -1,0 +1,12 @@
+= サイトの構成方法について
+
+:navtitle: パスの通し方
+
+== fish_add_path
+
+Ver.3.2.0以降に使用可能な `fish_add_path` コマンドを使用することでパスを通すことが可能
+
+[source,shell]
+----
+fish_add_path {パスに追加したいディレクトリ}
+----

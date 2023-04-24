@@ -1,0 +1,7 @@
+= Notebook about Fish shell
+
+:navtitle: Fish shell
+
+Fish Shellについてのページ
+
+https://fishshell.com/docs/current/index.html[Fish shell Documentation]
