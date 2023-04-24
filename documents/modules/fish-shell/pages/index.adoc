@@ -1,6 +1,6 @@
-= Notebook about Fish shell
+= Fish Shellについてのページ
 
-:navtitle: Fish shell
+:navtitle: Fish Shellについてのページ
 
 Fish Shellについてのページ
 
@@ -8,5 +8,5 @@ https://fishshell.com/docs/current/index.html[Fish shell Documentation]
 
 == Pages
 
-xref:ROOT:index.adoc[Top page]
-xref:fish-shell:index.adoc[Fish shellについて]
+* xref:ROOT:index.adoc[Top page]
+* xref:fish-shell:index.adoc[Fish shellについて]
