@@ -3,3 +3,8 @@
 :navtitle: Welcome
 
 This is MeglSiki's Notebook.
+
+== Pages
+
+xref:ROOT:index.adoc[Top page]
+xref:fish-shell:index.adoc[Fish shellについて]

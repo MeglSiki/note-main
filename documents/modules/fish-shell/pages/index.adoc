@@ -5,3 +5,8 @@
 Fish Shellについてのページ
 
 https://fishshell.com/docs/current/index.html[Fish shell Documentation]
+
+== Pages
+
+xref:ROOT:index.adoc[Top page]
+xref:fish-shell:index.adoc[Fish shellについて]
