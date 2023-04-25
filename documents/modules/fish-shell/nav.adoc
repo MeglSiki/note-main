@@ -1,2 +1,2 @@
-* xref:index.adoc[]
-* xref:path.adoc[]
+* xref:fish-shell:index.adoc[]
+* xref:fish-shell:path.adoc[]
