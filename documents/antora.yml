@@ -3,3 +3,4 @@ title: Main
 version: latest
 nav:
   - modules/ROOT/nav.adoc
+  - modules/fish-shell/nav.adoc
