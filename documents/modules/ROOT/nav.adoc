@@ -1,2 +1,3 @@
+.このページについて
 * xref:index.adoc[]
 * xref:portal-structure.adoc[]

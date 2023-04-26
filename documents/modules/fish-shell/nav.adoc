@@ -1,2 +1,3 @@
+.Fish shell
 * xref:index.adoc[]
 * xref:path.adoc[]
